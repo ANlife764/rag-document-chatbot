@@ -1,1 +1,1 @@
-# rag-document-chatbot
+# RAG-Multi-PDF-Chatbot
