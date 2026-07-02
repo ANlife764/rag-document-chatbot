@@ -19,6 +19,3 @@ for i, page in enumerate(content):
             "page_number":i+1,
             "text": c
         })
-
-for ch in chunks:
-    
